@@ -1,4 +1,6 @@
 # C-Course
+[https://github.com/markdoughty/C-Course](https://github.com/markdoughty/C-Course)
+
 This is a collection of 6 classes (lectures?) introducing C:
 
 1. Introduction to C
